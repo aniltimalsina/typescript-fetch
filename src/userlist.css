@@ -1,0 +1,12 @@
+.card {
+  border: 2px black solid;
+  box-shadow: 2px 3px;
+  padding: 10px;
+  margin: 5px;
+  text-align: justify;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
